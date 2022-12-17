@@ -1,0 +1,5 @@
+
+TinyELCA ChangeLog for an Embedded Artists "iMX RT1062 Developer’s Kit"
+
+= Version 1.02 / 1.00, 17.12.2022
+   * First version for GitHub.
